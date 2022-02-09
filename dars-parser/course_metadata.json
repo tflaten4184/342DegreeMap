@@ -1,0 +1,242 @@
+[
+    {
+        "CourseID": "MATH221",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00161721",
+        "Description": "Limits, continuity, differentiation, applications of derivatives, integration. Prereq.: MATH 115, or MATH 112 and MATH 113, or high school advanced algebra and trigonometry with a satisfactory math placement score."
+    },
+    {
+        "CourseID": "MATH271",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00160885",
+        "Description": "Formal logic, sets, relations, functions, introduction to number theory and graph theory, basic counting principle, discrete probability, applications.  Prereq.: MATH 113 or MATH 115 or high school advanced algebra and trigonometry with a satisfactory math placement score."
+    },
+    {
+        "CourseID": "MATH312",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00161702",
+        "Description": "Matrices, matrix operations, systems of linear equations, determinants, geometry of R-n, vector spaces, subspaces, linear transformations, inner products, eigenvalues. Prereq.: MATH 211 or MATH 221."
+    },
+    {
+        "CourseID": "STAT353",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00000785",
+        "Description": "Probability distributions; introduction to statistical methods, including hypothesis testing and confidence intervals, one-way anova, simple linear regression, quality control basics; applications, and the use of statistical software.  Prereq.: MATH 211 or MATH 221."
+    },
+    {
+        "CourseID": "ENGL332",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00016476",
+        "Description": "Rhetorical situations, purposes, audience and ethical issues in workplace writing genres. Collaboration processes, layout/format conventions, clarity and correctness. May include oral presentations, usability testing, portfolios. Prereq.: 191 or equivalent."
+    },
+    {
+        "CourseID": "CMST341",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00014409",
+        "Description": "Theoretical understanding of the contemporary workplace as a system of human forces and communication. Interpersonal communication skills for productive worklife. Professional presentations."
+    },
+    {
+        "CourseID": "CSCI201",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00015653",
+        "Description": "Data abstraction, elementary data structures, library classes, pointers and files. Sorting and searching. Error handling and recovery. Time and space analysis of algorithms.  Standard representations (e.g. UML) of classes and objects.  Lab.  Prereq.: MATH 112 or MATH 113 or MATH 115; and one of the following: CSCI 200, ECE 102, CNA 267, IS 345, GENG 102, MATH 252, or comparable programming experience."
+    },
+    {
+        "CourseID": "CSCI301",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00015656",
+        "Description": "Recursion and recurrence. Trees, binary trees, 2/3 trees, directed and undirected graphs, searching and sorting, program layering. Sequential file processing, indexed files, and hashing techniques.  Coreq. MATH 271.  Prereq.: CSCI 201 and MATH 113 or MATH 115, or high school advanced algebra and trigonometry with a satisfactory math placement score."
+    },
+    {
+        "CourseID": "SE210",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00185823",
+        "Description": "Operating systems design, concurrent processes, inter-process communication, synchronization, scheduling, resource allocation, and memory management. Mobile operating systems (Android and iOS) and their ancestors - Linux and OS X.  Pre-req.: CSCI 201."
+    },
+    {
+        "CourseID": "CSCI310",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00013763",
+        "Description": "Multiprogramming operating systems concepts, system structures, functions, and services. Process scheduling and synchronization. Primary storage management. Secondary storage organization, directory and file management concepts. Access and information security. Performance analysis.  Coreq.: CSCI 320 or ECE 323.  Prereq.:  CSCI 301 and CSCI 220 or ECE 320 or SE 450."
+    },
+    {
+        "CourseID": "SE211",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00185793",
+        "Description": "Database management, design, and implementation. Database theory, data modeling, relational model concepts, data normalization, relational algebra, Structured Query Language (SQL), database design. Use of conventional Database Management Systems (DBMSs) and modeling tools.  Pre-req.: CSCI 201."
+    },
+    {
+        "CourseID": "CSCI411",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00015386",
+        "Description": "Principles of database systems, theory of relational databases, design techniques, concurrency control and recovery, object-oriented systems. Prereq.: CSCI 331 or (CSCI 301 and SE 240)."
+    },
+    {
+        "CourseID": "GENG101",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00172800",
+        "Description": "Major ethical theories; sources of ethics; professional responsibilities; social impact of engineering ethics; teamwork skills; design; engineering careers."
+    },
+    {
+        "CourseID": "SE221",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173065",
+        "Description": "Design and management of computer networks. Servers, routers, bridges, gateways, transmission media, communications protocols, network security, and performance tuning."
+    },
+    {
+        "CourseID": "SE231",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173066",
+        "Description": "Computer security and applied cryptography, software vulnerability analysis, defense, exploitation, reverse engineering, networking and wireless security.  Prereq.: SE 221."
+    },
+    {
+        "CourseID": "SE250",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00198751",
+        "Description": "Software process models, software life-cycle (planning, requirements, design, construction, quality assurance, and maintenance), software security, Software Engineering Code of Ethics and Professional Practice.  Lab.  Prereq.: CSCI 201."
+    },
+    {
+        "CourseID": "SE342",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00198859",
+        "Description": "Advanced applied research topics in software engineering.  Prereq.: SE 250."
+    },
+    {
+        "CourseID": "SE350",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00198896",
+        "Description": "Concepts of human-computer interaction, user-centered design, heuristic evaluation, and evaluation of software usability.  Lab.  Prereq.: SE 250."
+    },
+    {
+        "CourseID": "SE444",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173070",
+        "Description": "Credit for off-campus professional experience with industry partners, non-profit organizations or government agencies."
+    },
+    {
+        "CourseID": "SE460",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173071",
+        "Description": "Software requirements analysis, requirement specification, elicitation, verification and validation, quality assurance metrics.  Prereq.: SE 250 and CSCI 301."
+    },
+    {
+        "CourseID": "SE465",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173072",
+        "Description": "Formal methods of software analysis/design. Design patterns, standard middle-ware, software architecture including object/function oriented design. Design quality assurance management. Reverse engineering.  Prereq.: SE 250."
+    },
+    {
+        "CourseID": "SE470",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173074",
+        "Description": "Quality assurance concepts and their role in software development. Planning, validation and verification, testing, configuration and delivery management.  Prereq.: SE 350."
+    },
+    {
+        "CourseID": "SE475",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173047",
+        "Description": "Implementation and testing, state-based, table-driven, and low-level design of software. Design patterns and refactoring. Analysis of designs based on quality criteria, performance and maintainability improvement.  Prereq.: SE 460 and SE 465."
+    },
+    {
+        "CourseID": "CSCI430",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00000857",
+        "Description": "Techniques for identifying and specifying objects, object classes and operations in designing software.  Development of a major project using object-oriented analysis, design and programming techniques.  Pre-req.: CSCI 331 or (CSCI 301 and SE 240)."
+    },
+    {
+        "CourseID": "SE480",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173077",
+        "Description": "Use knowledge areas and develop procedures, skills, and resources for successful management of software projects.  Prereq.: SE 342, SE 350."
+    },
+    {
+        "CourseID": "SE490",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173052",
+        "Description": "First part of a group project/research course. Pursue projects or research with faculty adviser, within an area of Software Engineering.  Prereq.: SE 475 and SE 480."
+    },
+    {
+        "CourseID": "SE491",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173053",
+        "Description": "Second of a full year, group project/research course. Students pursue projects or research, with a faculty adviser, within an area of Software Engineering.  Pre-req.: SE 490."
+    },
+    {
+        "CourseID": "CSCI220",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00016213",
+        "Description": "CPU architecture, number systems, digital circuit design, assembly language programming, VHDL programming.  Lab.  Coreq.: CSCI 201 and MATH 271.  Prereq.: CSCI 200 or CSCI 201, and MATH 113 or MATH 115 or high school advanced algebra and trigonometry with a satisfactory math placement score."
+    },
+    {
+        "CourseID": "CSCI450",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00000869",
+        "Description": "Technology and techniques for generating graphics, transforms for viewing and manipulation of objects, perspective projection, color, light, and texture models. Animation and specialized graphics algorithms.  Integrated Lab."
+    },
+    {
+        "CourseID": "SE412",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173069",
+        "Description": "Mining interesting information from large data sets. Statistical analysis and machine learning, data mining concepts and techniques, data representation and their similarity/dissimilarity measures, data pre-processing, frequent pattern mining, supervised and unsupervised modeling.  Prereq.: CSCI 411, STAT 353."
+    },
+    {
+        "CourseID": "SE413",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173046",
+        "Description": "Data analytics concepts and techniques. Big-data features and representations, data collection and sampling, predicative modeling, frequent patterns, social networks analysis, data benchmarking and privacy, data modeling and documentation.  Prereq.: CSCI 411, STAT 353."
+    },
+    {
+        "CourseID": "SE450",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00184718",
+        "Description": "Analyzing and understanding software, without access to source code or design documents. Deducing the design of a software component. Recovering specifications, discover data use, and analyzing software via disassembly and decompilation.  Prereq.: CSCI 201."
+    },
+    {
+        "CourseID": "SE466",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173073",
+        "Description": "Game design teams and processes, Game scripting and programming, Game data structures and algorithms, Artificial intelligence, Play testing.  Pre-req.: CSCI 201."
+    },
+    {
+        "CourseID": "SE276",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00185824",
+        "Description": "Mobile application development frameworks; architecture, design and engineering issues, techniques, methodologies for mobile application development.  Prereq.: CSCI 201."
+    },
+    {
+        "CourseID": "SE477",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173048",
+        "Description": "Design of Mobile Applications. Mobile application frameworks, advanced mobile user-interface interactions involving sensors, event handling, data management and network communication.  Prereq.: SE 476."
+    },
+    {
+        "CourseID": "SE478",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173049",
+        "Description": "Enterprise system integration, process management and workflow, supply chain management, customer relationship management."
+    },
+    {
+        "CourseID": "SE479",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173050",
+        "Description": "Technological and managerial aspects of information technology. Change management and transformation.  Process review and risk management."
+    },
+    {
+        "CourseID": "SE482",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173051",
+        "Description": "Computer animation logic and programming. Data representation and visualization. Motion capture technologies. Optimization and physical animation techniques.  Prereq.: SE 266 and any one of: CSCI 350, CSCI 430, CSCI 450, SE 475."
+    },
+    {
+        "CourseID": "MATH222",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00161709",
+        "Description": "Integration techniques and applications, inverse functions, topics in analytic geometry, sequences and series, improper integrals, plane curves. Prereq.: MATH 221."
+    },
+    {
+        "CourseID": "MATH320",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00156874",
+        "Description": "Vectors, functions of several variables, gradients, multiple integrals, applications.  Prereq.: MATH 222."
+    },
+    {
+        "CourseID": "MATH304",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00160965",
+        "Description": "Techniques of proof reading and writing; review of discrete mathematics; computer representation of numbers; induction; automata and grammars; computational complexity; formal logic; sets and transfinite cardinalities; construction of the familiar number systems.  A transition to upper-level courses, with emphasis on reasoning and proof.  Prereq.: MATH 221 and MATH 271."
+    },
+    {
+        "CourseID": "STAT321",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00000783",
+        "Description": "Statistical methods for analyzing data beyond Statistical Methods I.  Modeling data using simple and multiple regression, and one- and two-way analysis of variance.  Transformations, model selection, multiple comparisons, randomized block design, and interactions. Prereq.: One of STAT 219, STAT 239, STAT 242, or STAT 353."
+    },
+    {
+        "CourseID": "SE460",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173071",
+        "Description": "Software requirements analysis, requirement specification, elicitation, verification and validation, quality assurance metrics.  Prereq.: SE 250 and CSCI 301."
+    },
+    {
+        "CourseID": "SE490",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173052",
+        "Description": "First part of a group project/research course. Pursue projects or research with faculty adviser, within an area of Software Engineering.  Prereq.: SE 475 and SE 480."
+    },
+    {
+        "CourseID": "SE491",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00173053",
+        "Description": "Second of a full year, group project/research course. Students pursue projects or research, with a faculty adviser, within an area of Software Engineering.  Pre-req.: SE 490."
+    },
+    {
+        "CourseID": "MATH271",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00160885",
+        "Description": "Formal logic, sets, relations, functions, introduction to number theory and graph theory, basic counting principle, discrete probability, applications.  Prereq.: MATH 113 or MATH 115 or high school advanced algebra and trigonometry with a satisfactory math placement score."
+    },
+    {
+        "CourseID": "CSCI201",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00015653",
+        "Description": "Data abstraction, elementary data structures, library classes, pointers and files. Sorting and searching. Error handling and recovery. Time and space analysis of algorithms.  Standard representations (e.g. UML) of classes and objects.  Lab.  Prereq.: MATH 112 or MATH 113 or MATH 115; and one of the following: CSCI 200, ECE 102, CNA 267, IS 345, GENG 102, MATH 252, or comparable programming experience."
+    },
+    {
+        "CourseID": "SE250",
+        "ExternalLink": "https://catalog.stcloudstate.edu/courses/00198751",
+        "Description": "Software process models, software life-cycle (planning, requirements, design, construction, quality assurance, and maintenance), software security, Software Engineering Code of Ethics and Professional Practice.  Lab.  Prereq.: CSCI 201."
+    }
+]
